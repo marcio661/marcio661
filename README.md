@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Márcio
 
-<!--
-**marcio661/marcio661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação, apaixonado por aprender e aplicar conceitos de programação em projetos práticos e acadêmicos.  
+💡 Busco evoluir constantemente em lógica de programação, desenvolvimento de sistemas e exploração de diferentes linguagens.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Interesses
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=239120)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=F89820)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+---
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcio661&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcio661&layout=compact&theme=radical)
+
+---
+
+## 📫 Contato
+- 🔗 [LinkedIn](https://www.linkedin.com/in/marcio-luis-cipriano-de-souza-bb4066192/)  
