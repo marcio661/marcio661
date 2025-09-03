@@ -22,4 +22,8 @@
 ---
 
 ## 📫 Contato
-- 🔗 [LinkedIn](https://www.linkedin.com/in/marcio-luis-cipriano-de-souza-bb4066192/)  
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrciocipriano10/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](marcioluis@discente.ufj.edu.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-luis-cipriano-de-souza-bb4066192/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/balthier5832)
