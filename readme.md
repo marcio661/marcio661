@@ -1,6 +1,6 @@
 #  Olá! Eu sou o Márcio
 
- Estudante de Ciência da Computação, aplicando conceitos de programação em projetos práticos e acadêmicos.  
+ Bacharel em Ciência da Computação, aplicando conceitos de programação em projetos práticos e acadêmicos.  
  Busco evoluir constantemente em lógica de programação, desenvolvimento de sistemas e exploração de diferentes linguagens.  
 
 ---
